@@ -1,0 +1,26 @@
+year,total_gross_mil,pct_change,releases,top_film,top_film_gross,day_of_week,era,bryce_carmike,data_quality,source_note
+2000,38.5,,38,How the Grinch Stole Christmas,8.2,Monday,Pre-franchise,0,estimated,Est from individual film grosses; BOM calendar data
+2001,41.2,7.0,40,Lord of the Rings: Fellowship of the Ring,11.6,Tuesday,LOTR Era,0,confirmed,Box Office Mojo Christmas Day 2001
+2002,46.3,12.4,42,Lord of the Rings: The Two Towers,12.4,Wednesday,LOTR Era,0,confirmed,Box Office Mojo Christmas Day 2002
+2003,58.1,25.5,44,Lord of the Rings: Return of the King,14.0,Thursday,LOTR Era,0,confirmed,Box Office Mojo Christmas Day 2003
+2004,52.4,-9.8,43,Meet the Fockers,12.0,Saturday,Growth,0,confirmed,Box Office Mojo Christmas Day 2004
+2005,55.8,6.5,44,Fun with Dick and Jane,9.8,Sunday,Growth,0,confirmed,Box Office Mojo Christmas Day 2005
+2006,58.6,5.0,45,Night at the Museum,9.1,Monday,Growth,0,confirmed,Box Office Mojo Christmas Day 2006
+2007,64.4,9.9,45,National Treasure: Book of Secrets,13.7,Tuesday,Growth,0,confirmed,Box Office Mojo Christmas Day 2007
+2008,75.1,16.7,52,Marley & Me,14.4,Thursday,Growth,1,confirmed,Box Office Mojo Christmas Day 2008 — Bryce at Carmike Snellville
+2009,86.6,15.3,46,Sherlock Holmes,24.9,Friday,Growth,1,confirmed,Box Office Mojo Christmas Day 2009; Variety Dec 27 2009
+2010,58.7,-32.2,46,Little Fockers,14.6,Saturday,Growth,1,confirmed,Box Office Mojo Christmas Day 2010
+2011,61.0,3.9,45,Mission: Impossible Ghost Protocol,13.7,Sunday,Growth,1,confirmed,Box Office Mojo Christmas Day 2011
+2012,74.9,22.8,49,Les Misérables,18.1,Tuesday,Growth,1,confirmed,Box Office Mojo Christmas Day 2012
+2013,77.2,3.1,45,The Hobbit: Desolation of Smaug,9.3,Wednesday,Growth,1,confirmed,Box Office Mojo Christmas Day 2013 — last year of Bryce at Carmike
+2014,81.3,5.3,49,Unbroken,15.4,Thursday,Growth,0,confirmed,Box Office Mojo Christmas Day 2014
+2015,103.1,26.9,46,Star Wars: The Force Awakens,49.3,Friday,Star Wars,0,confirmed,Box Office Mojo — all-time Christmas Day record; first to break $100M
+2016,83.1,-19.4,49,Rogue One: A Star Wars Story,25.9,Sunday,Star Wars,0,confirmed,Box Office Mojo Christmas Day 2016
+2017,81.5,-1.9,59,Star Wars: The Last Jedi,27.5,Monday,Star Wars,0,confirmed,Box Office Mojo Christmas Day 2017
+2018,78.5,-3.7,53,Aquaman,22.0,Tuesday,Growth,0,confirmed,Box Office Mojo Christmas Day 2018
+2019,78.6,0.1,54,Star Wars: Rise of Skywalker,32.2,Wednesday,Star Wars,0,confirmed,Box Office Mojo Christmas Day 2019
+2020,10.2,-87.0,27,Wonder Woman 1984,7.5,Friday,COVID,0,confirmed,Box Office Mojo Christmas Day 2020 — COVID pandemic
+2021,58.1,469.0,26,Spider-Man: No Way Home,31.6,Saturday,Recovery,0,confirmed,Box Office Mojo Christmas Day 2021
+2022,43.8,-24.6,28,Avatar: The Way of Water,29.2,Sunday,Recovery,0,confirmed,Box Office Mojo Christmas Day 2022
+2023,63.2,44.3,44,The Color Purple,18.2,Monday,Recovery,0,confirmed,Box Office Mojo Christmas Day 2023
+2024,60.9,-3.6,39,Mufasa: The Lion King,14.7,Wednesday,Recovery,0,confirmed,Box Office Mojo / Deadline Dec 26 2024

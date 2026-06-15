@@ -1,0 +1,7 @@
+era,start_year,end_year,avg_total_gross,max_total_gross,min_total_gross,notes
+Pre-franchise,2000,2000,38.5,38.5,38.5,Pre-LOTR baseline
+LOTR Era,2001,2003,48.5,58.1,41.2,"Fellowship, Two Towers, Return of the King anchor three consecutive Christmases"
+Growth,2004,2014,66.3,86.6,52.4,Steady growth in Christmas Day box office; no single franchise dominates
+Star Wars,2015,2019,89.3,103.1,78.5,"Disney Star Wars era — Force Awakens, Rogue One, Last Jedi, Rise of Skywalker all anchor Christmas"
+COVID,2020,2020,10.2,10.2,10.2,Pandemic devastates Christmas box office; Wonder Woman 1984 day-and-date on HBO Max
+Recovery,2021,2024,56.5,63.2,43.8,Post-COVID recovery; Spider-Man No Way Home and Avatar: Way of Water lead strong returns

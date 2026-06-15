@@ -1,0 +1,26 @@
+year,total_gross_mil,top_film,top_film_gross,era,top_film_pct_of_total,bryce_carmike
+2000,38.5,How the Grinch Stole Christmas,8.2,Pre-franchise,21.3,0
+2001,41.2,Lord of the Rings: Fellowship of the Ring,11.6,LOTR Era,28.2,0
+2002,46.3,Lord of the Rings: The Two Towers,12.4,LOTR Era,26.8,0
+2003,58.1,Lord of the Rings: Return of the King,14.0,LOTR Era,24.1,0
+2004,52.4,Meet the Fockers,12.0,Growth,22.9,0
+2005,55.8,Fun with Dick and Jane,9.8,Growth,17.6,0
+2006,58.6,Night at the Museum,9.1,Growth,15.5,0
+2007,64.4,National Treasure: Book of Secrets,13.7,Growth,21.3,0
+2008,75.1,Marley & Me,14.4,Growth,19.2,1
+2009,86.6,Sherlock Holmes,24.9,Growth,28.8,1
+2010,58.7,Little Fockers,14.6,Growth,24.9,1
+2011,61.0,Mission: Impossible Ghost Protocol,13.7,Growth,22.5,1
+2012,74.9,Les Misérables,18.1,Growth,24.2,1
+2013,77.2,The Hobbit: Desolation of Smaug,9.3,Growth,12.0,1
+2014,81.3,Unbroken,15.4,Growth,18.9,0
+2015,103.1,Star Wars: The Force Awakens,49.3,Star Wars,47.8,0
+2016,83.1,Rogue One: A Star Wars Story,25.9,Star Wars,31.2,0
+2017,81.5,Star Wars: The Last Jedi,27.5,Star Wars,33.7,0
+2018,78.5,Aquaman,22.0,Growth,28.0,0
+2019,78.6,Star Wars: Rise of Skywalker,32.2,Star Wars,41.0,0
+2020,10.2,Wonder Woman 1984,7.5,COVID,73.5,0
+2021,58.1,Spider-Man: No Way Home,31.6,Recovery,54.4,0
+2022,43.8,Avatar: The Way of Water,29.2,Recovery,66.7,0
+2023,63.2,The Color Purple,18.2,Recovery,28.8,0
+2024,60.9,Mufasa: The Lion King,14.7,Recovery,24.1,0

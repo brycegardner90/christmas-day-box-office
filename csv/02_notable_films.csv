@@ -1,0 +1,23 @@
+id,year,film,studio,christmas_gross,total_gross,genre,is_number_one,notes
+1,2001,Lord of the Rings: Fellowship of the Ring,New Line,11.6,313.4,Fantasy,1,First LOTR Christmas — began the holiday tradition for the trilogy
+2,2001,Ali,Sony,10.2,58.2,Drama,0,Will Smith biopic; previous Christmas Day record holder at $10.2M
+3,2002,Lord of the Rings: The Two Towers,New Line,12.4,339.8,Fantasy,1,LOTR dominates second consecutive Christmas
+4,2002,Catch Me If You Can,DreamWorks,9.9,164.6,Drama,0,Spielberg/DiCaprio Christmas Day opener
+5,2003,Lord of the Rings: Return of the King,New Line,14.0,377.0,Fantasy,1,Third LOTR Christmas — won Best Picture; previous single-film Christmas record
+6,2003,Cheaper by the Dozen,Fox,7.8,138.6,Comedy,0,Steve Martin family comedy
+7,2008,Marley & Me,Fox,14.4,143.2,Drama,1,Set new Christmas Day record at time ($14.75M); Jennifer Aniston/Owen Wilson
+8,2008,The Curious Case of Benjamin Button,Paramount,11.3,127.5,Drama,0,Brad Pitt; wide release Christmas Day
+9,2008,Bedtime Stories,Disney,11.0,110.1,Comedy,0,Adam Sandler family comedy; opened same day
+10,2008,Valkyrie,UA,9.4,83.1,Drama,0,Tom Cruise WWII thriller — the film Bryce forgot
+11,2009,Sherlock Holmes,Warner,24.9,209.0,Action,1,Set new Christmas Day single-film record; Robert Downey Jr.
+12,2009,Avatar,Fox,23.5,760.5,SciFi,0,Already in theaters; Christmas Day was its 11th day; $617M global at that point
+13,2009,Alvin and the Chipmunks: Squeakquel,Fox,15.9,219.6,Family,0,Strong family performer Christmas 2009
+14,2009,Up in the Air,Paramount,6.4,83.8,Drama,0,George Clooney; limited to wide Christmas Day
+15,2015,Star Wars: The Force Awakens,Disney,49.3,936.7,SciFi,1,All-time Christmas Day single-film record; 10th day of release
+16,2015,Daddy's Home,Paramount,15.7,150.4,Comedy,0,Will Ferrell/Mark Wahlberg; strong Christmas opener
+17,2015,Joy,Fox,13.5,56.5,Drama,0,Jennifer Lawrence/David O. Russell
+18,2021,Spider-Man: No Way Home,Sony,31.6,804.8,Action,1,All-time #2 Christmas Day single-film gross; 11th day of release
+19,2022,Avatar: The Way of Water,Disney,29.2,684.1,SciFi,1,James Cameron sequel; 11th day of release
+20,2023,The Color Purple,Warner,18.2,67.4,Drama,1,Musical remake; Christmas Day opener
+21,2024,Mufasa: The Lion King,Disney,14.7,220.0,Family,1,Lion King prequel; Christmas Day opener
+22,2024,Sonic the Hedgehog 3,Paramount,13.2,201.0,Family,0,Strong Christmas Day performer 2024
