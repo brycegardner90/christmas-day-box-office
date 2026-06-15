@@ -1,5 +1,5 @@
 # 🎬 Christmas Day Box Office History (2000–2024)
-### Side Project | Tools: Python · SQLite · Power BI · HTML/JavaScript
+### Side Project | Tools: Python · SQLite · Power BI
 
 A data analyst's look at the busiest Christmas Days in cinema history — inspired by a personal memory of working the floor at Carmike Cinemas during one of the most stacked December 25th lineups ever recorded.
 
@@ -13,7 +13,6 @@ A data analyst's look at the busiest Christmas Days in cinema history — inspir
 | Python | Database build and CSV export scripts |
 | SQLite | Structured data storage — 5 tables |
 | Power BI | Interactive dashboard |
-| HTML / Chart.js | Standalone web visualization |
 | Box Office Mojo | Primary data source |
 | Deadline / Variety | Supplementary box office reporting |
 
@@ -131,22 +130,13 @@ The Power BI dashboard includes:
 
 ---
 
-## Web Visualization
-
-A standalone HTML version of the chart is included — open `christmas_box_office.html` in any browser. Built with Chart.js, no server required.
-
-[View on GitHub Pages](https://brycegardner90.github.io/christmas-day-box-office) *(enable GitHub Pages to activate)*
-
----
-
 ## Files in This Repository
 
 | File | Description |
 |------|-------------|
 | `christmas_boxoffice.db` | SQLite database — all 5 tables |
-| `build_database.py` | Python script to build and populate the database |
-| `export_csvs.py` | Python script to export all 5 CSVs |
-| `christmas_box_office.html` | Standalone Chart.js web visualization |
+| `build_database_christmas.py` | Python script to build and populate the database |
+| `export_csvs_christmas.py` | Python script to export all 5 CSVs |
 | `csv/` | Five CSV exports for external analysis |
 | `screenshots/` | Dashboard screenshot |
 
